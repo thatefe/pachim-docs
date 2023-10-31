@@ -19,6 +19,8 @@ ssh پروتکل معرفی است که به شما این اجازه را می�
 ssh pachim@YOUR_SERVERS_PUBLIC_IP_ADDRESS
 ```
 ## اضافه کردن کلید SSH شما به سرور جدید
++<div id="89527421186"><script type="text/JavaScript" src="https://www.aparat.com/embed/JyPg2?data[rnddiv]=89527421186&data[responsive]=yes"></script></div>
++
 
 قبل از آنکه اولین سرور خود را راه اندازی کنید، نیاز است کلید SSH خود را در پنل کاربری‌تان اضافه کنید. برای اضافه کردن این کلید می‌توانید وارد [صفحه مدیریت SSH](https://app.pachim.sh/panel/user-profile/ssh-keys) در پنل کاربری خود شوید.
 
