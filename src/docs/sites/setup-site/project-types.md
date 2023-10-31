@@ -46,6 +46,8 @@ title : "انواع برنامه‌ها"
 
 
 #### سایت وردپرسی
+<div id="34579233482"><script type="text/JavaScript" src="https://www.aparat.com/embed/6XmQc?data[rnddiv]=34579233482&data[responsive]=yes"></script></div>
+
 
 شما با استفاده از پچیم با چند کلیک ساده می‌توانید یک وبسایت وردپرسی برای خود راه‌اندازی کنید و به عنوان یک بلاگ یا فروشگاه از آن بهره ببرید.
 
